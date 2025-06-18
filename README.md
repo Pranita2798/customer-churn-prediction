@@ -67,7 +67,6 @@ To analyze customer behavior and predict the likelihood of churn using historica
 |-------------------------------|--------------------------------|
 | ![Churn](images/churn_plot.png) | ![Contract](images/contract_type.png) |
 
-> *(Make sure to update image file names based on what you upload)*
 
 ---
 
